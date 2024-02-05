@@ -1,0 +1,16 @@
+.FET {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    text-decoration: double;
+    color: blueviolet;
+}
+
+#PPM {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+}
+
+.CPS {
+    font-family: monospace;
+    font-size: 22px;
+}
